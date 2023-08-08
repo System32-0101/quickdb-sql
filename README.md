@@ -3,7 +3,13 @@ A simple library to connect to a MySQL Database using QuickDB
 
 ## Install
 ```
+npm install quick.db mysql2 quickdb-sql
+```
+- OR -
+```
 npm install quickdb-sql
+npm install quick.db
+npm install mysql2
 ```
 
 ## Usage
